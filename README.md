@@ -175,7 +175,7 @@ O projeto pode ser publicado via **JitPack** para reutilização como dependênc
 ## 🔗 Clone do repositório
 
 ```bash
-git clone <link-do-repositorio>
+git clone https://github.com/celin1221/SistemaLogAuditoria.git
 ```
 
 ---
