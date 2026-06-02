@@ -1,0 +1,6 @@
+com\mycompany\logsauditoria\interfaces\ILogger.class
+com\mycompany\logsauditoria\CSVLogger.class
+com\mycompany\logsauditoria\XmlLogger.class
+com\mycompany\logsauditoria\JsonLogger.class
+com\mycompany\logsauditoria\LogEntry.class
+com\mycompany\logsauditoria\Logsauditoria.class
